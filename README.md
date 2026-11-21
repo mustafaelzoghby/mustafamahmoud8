@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Focus-Full_Stack_Dev-brightgreen?style=flat-square"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-Cairo_🇪🇬-blue?style=flat-square"/>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mustafamahmoud8&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
 </p>
 
 </div>
@@ -123,9 +125,31 @@ const mustafa: Developer = {
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mustafamahmoud8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafamahmoud8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=mustafamahmoud8&theme=tokyonight&hide_border=true&fire=FF6B35&ring=58A6FF&currStreakLabel=58A6FF" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mustafamahmoud8&theme=tokyonight&hide_border=true&fire=FF6B35&ring=58A6FF&currStreakLabel=58A6FF" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mustafamahmoud8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafamahmoud8&theme=tokyo-night&hide_border=true&custom_title=Mustafa's%20Contribution%20Graph" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
@@ -146,6 +170,25 @@ const mustafa: Developer = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafamahmoud8/mustafamahmoud8/output/github-snake.svg"/>
     <img alt="🐍 Contribution Snake" src="https://raw.githubusercontent.com/mustafamahmoud8/mustafamahmoud8/output/ocean.gif" width="100%"/>
   </picture>
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+<div align="center">
+
+### 🌐 Full-Stack Web Projects
+| Project Name | Stack | Core Highlights | Repository |
+|---|---|---|---|
+| Fast Food Restaurant | HTML, CSS, JS | Responsive restaurant website with modern UI | [GitHub 🔗](https://github.com/mustafamahmoud8/fast-food) |
+| Mohamed Elzoghpy Portfolio | HTML, CSS, JS | Media buyer portfolio with smooth animations | [GitHub 🔗](https://github.com/mustafamahmoud8/mohamed-elzoghpy) |
+
+### 📱 Mobile Projects
+| Project Name | Stack | Core Highlights | Repository |
+|---|---|---|---|
+| Flutter Apps | Flutter, Dart, Firebase | Cross-platform iOS & Android apps | [GitHub 🔗](https://github.com/mustafamahmoud8) |
+
 </div>
 
 ---
