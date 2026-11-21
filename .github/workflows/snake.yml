@@ -5,12 +5,15 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate Snake (Light & Dark)
+      - name: Generate Snake (Light & Dark & Ocean)
         uses: Platane/snk@v3
         with:
           github_user_name: mustafamahmoud8
@@ -18,6 +21,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dot=#bfd6f6&color_dot=#8dbdff&color_dot=#64a1f4&color_dot=#4b91f1&color_dot=#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
