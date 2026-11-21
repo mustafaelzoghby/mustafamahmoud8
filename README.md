@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mustafa%20Mahmoud&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20Problem%20Solver&descAlignY=56&descSize=20&descColor=aaaaaa"/>
 
@@ -51,7 +51,7 @@ const mustafa: Developer = {
   name:       "Mustafa Mahmoud",
   location:   "Cairo, Egypt 🇪🇬",
   role:       "Full-Stack & Mobile Developer",
-  company:    "@branspect",
+  company:    "@Transpect",
   portfolio:  "https://mustafa-mahmoud.vercel.app",
   email:      "mustafaelzoghby7@gmail.com",
 
