@@ -51,7 +51,7 @@ const mustafa: Developer = {
   name:       "Mustafa Mahmoud",
   location:   "Cairo, Egypt 🇪🇬",
   role:       "Full-Stack & Mobile Developer",
-  company:    "@Transpect",
+  company:    "@branspect",
   portfolio:  "https://mustafa-mahmoud.vercel.app",
   email:      "mustafaelzoghby7@gmail.com",
 
